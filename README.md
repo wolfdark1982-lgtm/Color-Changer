@@ -1,6 +1,6 @@
 Welcome to Color Changer
 _________________________________________
-Made with C++
+Made with C++ and yaml
 ________________________________________
 change the color on screencolor.yml
 _________________________________________
