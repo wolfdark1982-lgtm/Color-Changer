@@ -10,3 +10,4 @@ if you click the exe you will see this
 _______________________________________
 [Click This Link to install ColorChanger](https://github.com/wolfdark1982-lgtm/Color-Changer/releases/tag/CC1.0)
 ________________________________________
+Enjoy!
