@@ -1,3 +1,0 @@
-Frame Per Seconds: 60
-Resolution: 1300x1000
-Wrriten in: C++ and Yaml
